@@ -58,7 +58,7 @@ border-radius: 8px;
 }
 
 .container{
- /* width: 700px;   /* Définit la largeur */
+  width: 700px;   /* Définit la largeur */
   margin: 0 auto;
 }
 
